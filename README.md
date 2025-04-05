@@ -42,15 +42,7 @@ This repository documents the creation of an **AI-powered personal portfolio web
 
 ---
 
-## 📸 Preview
-
-### Homepage  
-![Images Screenshot](screenshots/Images.png)
-
-### Website  
-![Website Screenshot](screenshots/Screenshot.png)
-
-> *Note: Screenshots are stored in the `/screenshots/` folder.*
+> *Note: Screenshots are stored in the `/screenshots Of the Wensite/` & `/Images/` folder.*
 
 ---
 
